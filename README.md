@@ -1,8 +1,6 @@
 # formula_1_analysis
 
-Data (Formula 1 World Championship (1950 - 2023)) extracted from kaggle.com on 4 July 2024.
+Content:
+The dataset consists of all information on the Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, and championships from 1950 until the present 2024 season.
 
-Puropse of the analysis:
-Which driver is statistically the Greatest Of All Time (GOAT)?
-Which team is statistically the Greatest Of All Time (GOAT)?
-Which team has the best pitstops (fastest avg. time)?
+Purpose:
