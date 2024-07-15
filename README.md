@@ -1,4 +1,6 @@
-Welcome to the F1 Power BI repo! This project uses Power BI to analyze Formula 1 racing data. You'll find interactive visuals and reports on race outcomes, driver stats, team rankings, and more.
+<h1> Formula 1 Analysis
+
+Welcome to the F1 Power BI repo! This project uses Power BI to analyze Formula 1 racing data. First analyzed and cleaned in Python. You'll find interactive visuals and reports on race outcomes, driver stats, team rankings, and more.
 
 We use public Formula 1 data, including:
 - 2024 race results and stats
